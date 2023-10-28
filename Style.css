@@ -1,0 +1,13 @@
+h1{
+    color:purple;
+}
+p{
+    color:orangered;
+}
+button{
+    color:green;
+    background-color: chartreuse;
+}
+body{
+    background-color: rgb(0,200,20);
+}
